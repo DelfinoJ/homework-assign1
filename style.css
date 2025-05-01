@@ -1,0 +1,48 @@
+    body 
+        {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 150%;
+        }
+    header
+        {
+        background-color: rgb(236, 242, 240);
+       align-items: center; }
+
+    nav
+        {
+        background-color: rgb(121, 247, 230);
+
+        text-align: center;
+        }
+    main
+        {
+        background-color: rgb(255, 255, 255);
+        font-size: 100%; 
+    
+        }
+    img
+        {
+        border-radius: 8px;
+        }
+    Footer
+        {
+        background-color: #f27cf8;
+        color:rgb(19, 18, 18);
+        Text-align:center;
+        }
+
+    li
+        {
+        display:inline;
+     width: auto;
+        }
+     h1 
+         {
+        text-align:center;
+        font-family:'Times New Roman', Times, serif;
+        color: rgb(209, 39, 189);
+        }
+    p 
+        {
+        line-height: 1em;
+        }
