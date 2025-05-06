@@ -46,4 +46,6 @@
         {
         line-height: 1em;
         }
-div {text-align:center;}
+div {text-align:center;
+    display: block;
+    }
