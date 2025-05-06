@@ -1,41 +1,41 @@
 body {
-        font-family: 'Times New Roman', Times, serif;
-        font-size: 6px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
 }
 header {
-        background-color: rgb(236, 242, 240);
-        align-items: center; 
+    background-color: rgb(236, 242, 240);
+    align-items: center; 
 }
 nav {
-        background-color: rgb(121, 247, 230);
-        text-align: left;
+    background-color: rgb(121, 247, 230);
+    text-align: left;
 }
 main {
-        background-color: rgb(255, 255, 255);
-        font-size: 6px; 
+    background-color: rgb(255, 255, 255);
+    font-size: 18px; 
 }
 img {
-        border-radius: 8px;
+    border-radius: 8px;
 }
 footer {
-        background-color: #f27cf8;
-        color:rgb(19, 18, 18);
-        text-align:center;
+    background-color: #f2c3f5;
+    color:rgb(19, 18, 18);
+    text-align:center;
 }
 li {
-        display:inline;
-        width: auto;
-        padding: 12px;
+    display:inline;
+    width: auto;
+    padding: 12px;
 }
 h1 {
-        text-align:center;
-        font-family:'Times New Roman', Times, serif;
-        color: rgb(209, 39, 189);
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(209, 39, 189);
 }
 p {
-        line-height: 1em;
+    line-height: 1em;
 }
 div {
-        text-align:center;
-        display: block;
+    text-align:center;
+    display: block;
 }
