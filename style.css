@@ -1,53 +1,41 @@
-    body 
-        {
+body {
         font-family: 'Times New Roman', Times, serif;
         font-size: 150%;
-        }
-    header
-        {
+}
+header {
         background-color: rgb(236, 242, 240);
         align-items: center; 
-        }
-
-    nav
-        {
+}
+nav {
         background-color: rgb(121, 247, 230);
         text-align: left;
-        }
-    main
-        {
+}
+main {
         background-color: rgb(255, 255, 255);
         font-size: 15em; 
-        }
-    img
-        {
+}
+img {
         border-radius: 8px;
-        }
-    footer
-        {
+}
+footer {
         background-color: #f27cf8;
         color:rgb(19, 18, 18);
         text-align:center;
-        }
-
-    li
-        {
+}
+li {
         display:inline;
         width: auto;
         padding: 12px;
-        }
-     h1 
-        {
+}
+h1 {
         text-align:center;
         font-family:'Times New Roman', Times, serif;
         color: rgb(209, 39, 189);
-        }
-    p 
-        {
+}
+p {
         line-height: 1em;
-        }
-    div 
-        {
+}
+div {
         text-align:center;
         display: block;
-        }
+}
